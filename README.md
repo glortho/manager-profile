@@ -12,6 +12,8 @@ Hopefully it helps paint a picture of what it might be like to work together.
 - [Expectations](#my-expectations)
 - [Meetings](#meetings)
   - [1:1s](#11s)
+  - [Other meetings](#other-scheduled-meetings-and-time-slots)
+  - [Zoom interface guide](#zoom-interface-guide)
 - [Feedback](#feedback)
 - [Availability](#availability)
 - [My faults](#my-faults)
