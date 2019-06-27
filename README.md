@@ -1,184 +1,331 @@
-# How does Danielle even
+# Engineering Management
 
-Welcome to my README! I've heard that my passion for fighting to right injustice can be a bit intimidating if you don't know me, so I wrote this README in hopes to help you understand how best to work with me. I care deeply about the work I do and the people on my team and I want to help you be your best self and do your best work.
-
-## TLDR
-I believe in doing the right thing. I believe in collaborative teams without bullies. I will help you become the best person you can be if you let me. I value the safety of the marginalized over the hurt feelings of the privileged. I'm an introvert. I recommend reading [Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) to understand my feelings on feedback and watching [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat) to understand my motiviations for running a team.
+Welcome to my README! If you're reading this you may have recently learned that I'm
+the engineering manager on your team. Since communication on distributed teams can
+be difficult, I created this document to as a kind of brain-dump and soul-dump.
+Hopefully it helps paint a picture of what it might be like to work together.
 
 ## Table of contents
 - [My philosophy](#my-philosophy)
 - [My role](#my-role)
-- [Values](#my-values)
+- [My values](#my-values)
 - [Expectations](#my-expectations)
-- [Feedback](#feedback)
-- [Availability](#availability)
 - [Meetings](#meetings)
   - [1:1s](#11s)
-  - [Daily standup](#daily-standup)
-  - [Bi-weekly iterations](#biweekly-iterations)
-  - [Retrospectives](#retrospectives)
-- [Known failures](#known-failures)
+- [Feedback](#feedback)
+- [Availability](#availability)
+- [My faults](#my-faults)
 
 ## My philosophy
 
-I often ask people "What is your purpose in life?" I think it's a very telling question and I hope a thought-provoking one! For me, the answer has been pretty consistant for the past few years: **My purpose in life is to help people become the best they can be.**
+### Empathy
 
-I have always had a strong drive to help people and do the right thing. This often gets me into trouble more often than I like to admit (if it's not a HELL YES, it's a no), but I rarely regret it. I have a very strong moral compass, which can make it either easy or difficult to work with me! Doing the right thing is often hard, but it's the right thing.
+I believe empathy is the answer. To all the questions that really count.
 
-[Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) is perhaps the best resource to understand my approach to management and feedback. I believe in giving timely, honest feedback _because I care about you._ I don't believe in surprising people at review time with bad feedback. Your performance reviews should be underwhelming events because you should always know where you stand with me at all times. You can read more about my thoughts on feedback [here](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275).
+For starters, empathy should be the first answer to questions about how we put
+all of our other values into practice:
+
+- _Collaboration_ should spring from empathy for our teammates.
+- Meaningful efforts to address _diversity, inclusion, and belonging_ should spring from
+  empathy for those who have been marginalized, discriminated against, or
+  otherwise under-represented.
+- Empathy for users and others affected by our work should be the animating
+  force for _quality_ and _shipping_.
+- _Positive impact_, at both a local and global scale, follows inevitably from the above.
+
+We have all witnessed, in ourselves and others, attempts to put these values
+into practice via the private, solitary engagement of ego and pride, rather than
+empathy. We have all probably even experienced some version of success in doing so.
+Ego and pride can be powerful sources of energy. But they are like rocket fuel,
+deriving their power from volatility. If well contained and directed, they might
+take you to the moon, but it's just as likely they'll :boom: blow up your whole enterprise.
+
+Empathy, on the other hand, is a deep, stabilizing, liberating, creative,
+sustaining force. It derives its power not from consuming and exploiting
+elements in its environment but from expanding and multiplying them. As the
+walls between our experiences fall away, we begin to understand at a
+visceral level that our successes and failures, our livelihoods, our productivity
+and creativity, are inextricably linked, and shared.
+
+Unfortunately, empathy is not easy. Especially in charged situations, when we feel
+our livelihood or esteem is at stake. Most of us don't have abundant natural
+reserves of it to draw from. But the good news is that empathy is a practice. It's not
+a quality that you either have or don't have. We can cultivate it.
+
+### Service
+
+A traditional org chart shows the CEO at the top, with the rest of the
+executive team in the next layer, middle managers in the next layer(s), and
+individual contributors in the bottom layer. This may be a coherent view of
+accountability relationships, but it is woefully inadequate as a representation of value.
+
+If you flip the chart upside down, so that it shows engineers at
+the top (and maybe users in a dotted layer above) with layers of supporting roles below,
+you can get a better view of the value of engineers and engineering. Organizations
+like ours begin and end with engineers (which is not to suggest that there
+aren't tremendously important things happening across the rest of the organization).
+Additional layers evolve to support the needs of engineering teams as they grow to
+sizes that make self-organization and advancement difficult or impossible. I
+believe this to be true all the way down to the CEO, who serves the engineering
+org by keeping ideas and financial support flowing.
+
+With that in mind, I consider one of my main responsibilities to be to act as the first
+tier of support for you and our team. If I'm not able to resolve an issue to your satisfaction, or I'm
+otherwise not providing the world-class service I've promised, it's time to elevate
+to second-tier support, my manager.
+
+But what does service and support mean exactly? See below.
 
 ## My role
 
-I like to think of myself as a momma bear coaching a soccer team that my cubs are on. I will 100% eat any other bears that dares to hurt my team, but I also expect my cubsters to be on their best behavior and to be excellent team players. Everyone must shake hands (or paws, if you must) with the other team at the end of the game. No exceptions.
+Projects need management, teams need coordination, people need connection. My typical
+role on a project is to own all three. I'm succeeding maximally if the
+following happens:
 
-![obligatory bear gif](bear.gif)
+- Projects ship on time at a high level of quality
+- Teams are working together well in a highly collaborative fashion
+- People feel safe, respected, productive, engaged, and empowered
 
-In real people terms, it means I expect my reports to be collaborative team players and to be good sports if something does go wrong. There is no room for ego on my team. **There is no room for bullies on this team.** If someone is doing really well on the team, we should all celebrate that person's work! If you're doing really well, we will also celebrate you! If you need to constantly be in the limelight **at the expense of others**, then you may want to reconsider if this is the best fit for you.
+Here are some typical ways I might go about this:
 
-I also identify pretty strongly with Jessica from [Fresh Off the Boat](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat). I'll push you to do your absolute best, but it's only because I care about your future!
+- Trust from the start that you are committed to doing your job the best you can
+- Listen to you carefully every time you talk or otherwise communicate
+- Over-communicate with you, embracing redundancy, so that you are
+  never left wondering
+- Work with you to figure out reasonable scopes of work and reasonable deadlines
+- Immediately address any sources of dysfunction or toxicity across our team
+  and organization
+- Do whatever I can to help build a culture where people are responding to
+  ideas rather than to the way those ideas are articulated or other
+  interpersonal tensions
+- Help identify and remove anything else that is getting in your way
+- Give you timely and candid feedback in the form of appreciation, coaching, and
+  evaluation, and encourage others do the same
+- Amplify your ideas and work so that the rest of the team and organization
+  know about them
+- Be on constant lookout for challenges that will take you and the rest of us
+  to the next level, both in terms of learning and career advancement
+- Be on constant lookout for opportunities to slow down
 
-My role as the EM on this team is to:
+## My values
 
-- trust you to do your job
-- unblock you
-- provide you with a safe environment to grow into a well-rounded human
-- give you timely feedback, both good and constructive
-- get you the resources you need
-- challenge you in ways that will help you grow
-- champion your accomplishments to anyone who will listen (and even those who won't)
+> "Help one person at a time, and always start with the one nearest you." -Mary Teresa Bojaxhiu
 
-My role is not to:
+In no particular order:
 
-- do your job for you
-- enable laziness
-
-You do have to meet me halfway. I will be your biggest cheerleader, but I can't be everywhere at once! Sometimes I'll ask you to write down what you're doing to help me out. Sometimes it's because I legit have too many things to focus on and I need an easy way to recall all the amazing things that you've done lately. Help me help you get more money!
-
-## What do I value most?
-
-I value honesty over saving face.
-
-I value genuine efforts to improve over using the "correct" words all the time.
-
-**I value the safety of the marginalized over the hurt feelings of the privileged.**
-
-I value context.
-
-I value consent and boundaries.
-
-I value collaboration and clear communication over ego (including my own).
-
-I value mental health over shipping velocity.
-
-I value learning from mistakes over blaming others.
-
-I value emotional labor.
-
-I value getting things done.
-
-I understand that it can be difficult to trust a new manager. You've probably been burned before! But hopefully laying out my values can help you understand where I'm coming from. I will always tell you as much information as I know and am able to tell you. I will always care about you as a person and your wellbeing. I will always fight for what is the right thing to do. My values are the most important thing to me.
+- Radical, non-hierarchical candor
+- Taking blame and giving credit
+- The safety of the marginalized over the hurt feelings of the privileged
+- Efficiency without dehumanization (but otherwise automate all the things)
+- Mistakes are good and important
+- Mental health & well-being > productivity & collaboration > everything else
+- Work hard, play hard, rest hard, repeat
 
 ## My Expectations
 
-**I expect you, dear reader, to give me your best effort each day.** I understand some days are just not working out. That's totes fine. I want to work with you to make sure that you have a reasonable workload with reasonable deadlines and you are taking care of yourself. If you aren't able to give it your all for whatever reason, let's talk about it sooner rather than later!
+**I expect you to put forward your best effort each day.** My job isn't to drag a team over the finish line. It's to help everyone do their best work. If we succeed in doing that, everything else will fall into place one way or the other. I know that "best effort" translates to different things on different days. There isn't a person on the planet who fires on all cylinders every day. Having said that, if you find yourself in a dissatisfying pattern of not being able to give your best, let's talk about it sooner rather than later!
 
-**I expect you to show up on time and be present at meetings.** I hate useless meetings and promise to keep them to a minimum. There will always be an agenda. They'll probably always be remote meetings. So put on some pj pants and hop on video and be fully present for the short time we have together.
+**I expect you to be present at meetings.** I hate useless meetings. I promise to keep them to a minimum, and to keep them relevant to you. If I fail to keep these promises -- you find yourself drawn by irrelevance down into the rabbit holes of the internet during a meeting -- please tell me, either in the moment or afterwards.
 
-**I expect you to help out your fellow teammates if they need help.** We all have trouble here and there and no one likes to feel like a burden! If someone is asking for help then let's help teach one another the skills we need to solve the problem.
+**I expect you to help your fellow teammates if they need it.** Our team is
+not fully functional if everyone is working independently in parallel. No matter
+how much knowledge and experience each of us has, there will be lots of times
+when we need help, and lots of times when we have help to give. Embrace help
+and helping. They'll be the most valuable and meaningful experiences we have as
+a team.
 
-**I expect you to be respectful of one another's lived experiences.** I hate to use a buzzword, but diversity & inclusion is super important to making good teams. That means sometimes misunderstandings happen! But I expect you to be respectful of someone's lived experiences. However, keep in mind that I value the safety of the marginalized over the hurt feelings of those with more privilege. Power dynamics in terms of race, gender and gender expression, sexual identity or expression, class, disability, religion, age, body size, etc will always be kept in mind. Clarifying questions: good. Dismissing someone's lived experiences: bad.
+**I expect you to be respectful of one another's lived experiences.** There
+will be no room on our team (or our organization) for bullying, belittling, or
+disrespect of any kind. That we are different from each other, sometimes in profound
+ways, is a source of tremendous strength. But it can also be an interpersonal
+challenge. It's part of my job to help us bridge different communication styles and cultural differences, but
+I can't do it alone. I expect you to be committed to helping find the most
+respectful and productive ways for all of us to work together.
 
+**I expect you to use as many or as few emojis :smile: as you like.** Also, do
+or do not capitalize your sentences, as you like. There is no style guide. As
+long as you are getting your ideas across [non-violently](https://www.nonviolentcommunication.com/aboutnvc/nonviolent_communication.htm),
+follow whatever conventions you like!
 
-## Feedback
+# Meetings :calendar:
 
-I realize that as a manager there is a power imbalance between us. I hope that you will feel comfortable speaking to me about feedback in our daily stand ups, async retrospectives, 1:1s, and performance reviews. However, I recognize that it's not easy to do so! **Please feel free to speak to my manager if you have any feedback about my performance that you don't feel comfortable telling me.** You can also tell your teammates if you feel comfortable doing so, and hopefully they will pass it along to me.
+I have strong feelings about meetings involving more than 2 people. There are often too many of them. They
+often lose focus, wasting at least some portion of attendees' time. They tend
+to cater to extroverts and the most strongly opinionated attendees. The list
+goes on.
 
-## Availability
+I don't know the solutions to all of meetings' problems (and I would love
+to hear yours), but here are my thoughts for now:
 
-I am a strong believer in work/life balance. **I do not expect you to respond to pings (with the exception of dotcom oncall rotation) unless it is normal business hours in your time zone.** I highly discourage working on the weekend! (side projects are ok) I will not respond to pings on the weekend or during the evenings unless it's urgent. I encourage everyone to take liberal use of the Do Not Disturb feature. Remember: newer teammates may feel they need to work on weekends if they see you doing it!
-
-# Meetings
+- We start with no scheduled meetings (except 1:1s), and only add them in when
+  it becomes clear we need them. Assume async is sufficient until it's not.
+- Every meeting should have an absolute minimum of **required** attendees. Optional
+  attendees can be flexible.
+- Every meeting needs a clear and detailed agenda, included as part of the invitation. Deviation from the agenda is natural, but...
+- Most meetings should be moderated to avoid the [caucus problem](https://chelseatroy.com/2018/03/29/why-do-remote-meetings-suck-so-much/). Sometimes that will be me, sometimes another team member.
+- Repeating meetings should be scheduled for 6 weeks at most. At that time, we
+  can decide as a team whether to schedule them for another 6 weeks, drop them,
+  or tweak them.
+- [Notes are critical](https://blog.lucidmeetings.com/blog/5-reasons-to-take-notes-in-your-meetings) for all but the most casual meetings. Even if we never
+  look at them again. Taking turns being the note-taker not only helps ensure
+  that no one person shoulders the responsibility every time, but also allows for
+  different perspectives to emerge about key take-aways.
 
 ## 1:1s
 
-1:1s are our time to **work together** on _your career_. They will always have agendas, have a space to add any additional emotional labor you're doing, and be a space for us to work on the next portion of your career. They are typically 30 min every week.
+The primary goal of recurring 1:1 meetings is to give you a dedicated channel
+every week (or as frequently as possible if we can't do it that often) to talk
+about absolutely anything you want to talk about.
 
-You can read more about my feelings on goals and 1:1s [here](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275)
+For our first 1:1, I will ask specific questions about you, your hopes and dreams
+and more. On occasion after that, I may give and/or ask for feedback, or otherwise
+ask if we can put a relevant subject on the agenda. But the vast majority of the
+time I will follow your lead.
 
-I will use these 1:1s to give you feedback, unblock you, work on your goals, and help you with anything that you need help with. I will take notes during these meetings so we remember what we worked on, but I encourage you to take your own notes as well!
+Do you want to talk about your career, vent about a particular task,
+philosophize about the universe? I'm here for you.
 
-We can work together to set a meeting cadence that works for us. Both of us have the ability to reschedule our 1:1 if the time doesn't work out.
+But you also don't need to wait for our scheduled 1:1 -- `/call` me anytime.
 
-## Daily Stand Up
+## Other scheduled meetings and time slots
 
-Our daily standup is every day for ten minutes. It's led by that week's first responder (randomly assigned via PagerDuty), and we each go over:
+TBD (see above about not scheduling meetings until we know we need them)
 
-- Any blockers
-- What we worked on since the last standup
-- What we're currently working on
+## Zoom interface guide
 
-On Wednesdays, we have async stand up where status is communicated via Slack.
+![zoom interface guide](zoom.jpg)
 
-All members of the team are expected to attend.
+**1: [Lipton-esque](https://www.indiewire.com/2018/09/inside-the-actors-studio-ovation-bravo-james-lipton-1202006202/) black box**
 
-## Bi-Weekly Iterations
+I work at a co-working space that doesn't have much in the way of options for
+private conversations. This is one of two phone booths, both of which are lined
+wall to wall with black felt. I feel like I should be performing beat poetry or
+talking about an Apple product.
 
-Our bi-weekly iterations are planning and sync meetings with the team and representatives from other teams we work with.
+**2: Grumpy/worried resting face**
 
-Every two weeks, we will meet to discuss:
-- Work we are planning on doing
-- Unusual metrics we've seen
-- Statuses from the teams we work with
-- Agenda items
-- Deep dive presentations on topics of interest for the group
+In this picture I'm neither grumpy nor worried. Unfortunately, this is just what my face
+looks like all the time. I'm working on it.
 
-At the beginning every iteration, engineers should pick the work that they anticipate working on in the next two weeks from the On Deck column and assign themselves a project. **It is not a requirement to finish the entire project**, but it will help the team and external dependencies understand what to expect in the coming weeks.
+**3: Shiny head and face**
 
-All members of the team are expected to attend.
+These phone booths are not well ventilated. Especially in summer or when the
+co-working HVAC is out of balance, I start to shine. The bald head looks
+like this pretty much 24/7.
 
-## Retrospectives
+**4: Sporty clothes**
 
-At the beginning of every month, an async retrospective issue will be opened in our repo. All members of the team (and guests!) are welcome to leave comments on the issue. On the last day of the month we have a 10 minute retrospective where we go over:
+I'm not athletic. I'm actually the opposite of athletic, which is why I wear
+work-out clothes to the office every day. It lowers the barrier to working out,
+which I try to do as part of an outdoor exercise group every day from 12:45-1:15pm ET.
+If I have to change clothes to exercise I'll just find an excuse not to do it.
 
-- What worked
-- What could have been improved
-- Action items for next time
+# Feedback
 
-The first responder takes notes in an issue in this repo, categorizes them, and adds the retrospective label.
+Feedback is the lifeblood of our team. Without it, we wither up and fall apart.
+I will do my best to constantly over-communicate with you to try to make up for
+the absence of the kinds of communication that more naturally happen when working together
+in-person.
 
-All members of the team are expected to attend the synchronous retrospective.
+I also believe it's important to give feedback in a timely and productive way. For example, I will not wait
+until formal performance reviews to give you feedback about your performance.
+Performance reviews are a time to summarize everything we've already talked about,
+not to review performance for the first time.
 
-## Office Hours
+I hope you also won't wait to give me feedback of any kind! Here are some low
+impact ways to get and give feedback:
 
-Twice a month, we have open office hours on half an hour to an hour. Anyone and everyone is welcome to join us and ask questions regarding abuse vectors, product features, or just to hang out. We often invite guests from other companies to join us so we can learn from their processes.
+- **1:1 Meetings / @glortho**: A great way to get/give feedback every week!
+- **Daily stand-up**: Our team will decide whether these should be sync or
+  async or alternating, but no matter what this is a great place to get/give
+  timely feedback.
+- **Polls and micro-surveys**: We will occasionally have very short, optional, polls and surveys in Slack. Some of them will be anonymous.
+- **Skip-level**: If you don't feel comfortable giving me feedback for any reason, *please
+consider talking to my manager*. If you two haven't already met, we will schedule an introductory 1:1
+to open up the channel of communication.
+- **Other options**: If you don't feel comfortable with any of the above
+  options, consider either talking to a teammate who could pass the feedback
+  along, or to @dolcetta, our HR Business Partner.
 
-All members of the team are expected to attend.
+I know it can be difficult sometimes to give feedback to managers or to people you
+don't know very well yet. I will do everything in my power to make it as
+comfortable as possible!
 
-## Coffee Talk
+# Availability
 
-Twice a month (alternating with office hours) we have informal coffee talk for half an hour. It's completely optional for team members to attend, but highly encouraged so we can relax and get to know one another!
+I work from 9am - 5pm [Eastern Time](https://time.is/Washington,_D.C.).
 
-## Slack
+As a general rule, I will have everything set to "Do not disturb" outside these
+hours.
 
-Slack should be used to coordinate development efforts. It is also a place to provide a bit of a virtual water cooler and connect more with each other. Also emoji. :palm_tree: :sparkling_heart: :rocket:
+Except in off-schedule situations like dotcom oncall rotation, **I do not expect you
+to respond to pings or otherwise be working unless it is your normal business hours
+in your time zone.**
 
-We have a public channel for work talk and a private channel for more sensitive topics.
+I strongly encourage you not to work on weekends or off-hours, unless it's a
+personal passion project. Burn-out is far easier to get than to get rid of.
 
-## Known failures
+P.S. It's probably not a bad idea to stop working at least an hour early on
+Fridays :smile:.
 
-As much as I like to think I'm a robot who will live forever without feelings, I often fail pretty hard. Some known failure modes I have are:
+### Some notes about notifications :loud_sound:
 
-- overcommitting to events and burning out
-- getting overwhelmed at social events (I am an introvert after all)
-- forgetting to do self-care
-- not liking being told what to do (asking questions has a much better success rate)
+- I recommend we all set everything to "Do not disturb" or otherwise logout
+  when we're not working, rather than hoping people will only ping us during our work hours.
+- Even during work hours, consider muting all notifications for large chunks of
+  the day. Slack and email and GitHub and lots of other apps will be trying to
+  get you to pay attention to things that you probably don't need to pay
+  attention to, at least not immediately.
 
-Ways you can help!
-- remind me to take breaks (I always appreciate this)
-- remind me to delegate
-- give me some space if it looks like it's That Kind of Day
-- snacks. Snacks are always appreciated (savory preferred). Or coffee/tea.
+# My faults
+
+I will fail in ways both expected and unexpected. Here are some of the expected
+ways (that I'm working on):
+
+- I say yes a lot, including times when I should say no. This can stress and
+  burn me and other team members out.
+- I'm not good at rationing social energy. I'll be so excited to see you or to
+  talk about something interesting that I'll erupt with energy for a little
+  while before getting totally depleted. It can come across as personal to the
+  people I'm with when the depletion happens but really I just need to go be
+  alone for a little bit to recharge.
+- I'm socially awkward sometimes, which can make people uneasy. It's not you --
+  it's me! My brain often has trouble chilling out enough to allow graceful
+  interactions to unfold.
+- Related to :point_up_2:, in an attempt at radical candor I will sometimes speak
+  my truth in a way that is inelegantly blunt or otherwise clumsy.
+
+Ways you can help:
+
+- Say no! If you feel like I'm not pushing back enough on your behalf, push
+  back on me.
+- Remind me to breathe and to take breaks.
+- Remember that my whole job, and one of the things that I care about most in
+  the world, is helping you be as successful as you can be. If I'm not doing that,
+  please tell me (or my manager)! There's a good chance that it's my own issues
+  that are the problem. I will not tolerate my own baggage getting in your way.
 
 ## Conclusion
 
-Thank you for slogging through my very long README. Hopefully this helps you understand how to work better with me. Please feel free to open a PR with any suggestions!
+Thank you for slogging through my very long README. Please feel free to open a PR with any suggestions!
+
+Before I go, I want to leave you with one last thought:
+
+We're about to embark on a project together. On the surface, it's probably going to
+be a project designed to deliver a product or a feature. But that's its design, not its function.
+If you peel back the various layers of product, engineering, organization, career, and so on,
+you'll find its true human purpose there at the bottom:
+
+Each of us is trying to be happier and more successful, and in
+some cases likely struggling to do so. One of the reasons it's hard is because
+we've been steeped in a culture of DIY, strong self-reliance, and independence.
+Those are helpful, but not sufficient. We can't do it alone.
+
+This group of people, our team, is probably going to come together in this configuration only once
+in our lifetimes. How will we use this time to help our fellow humans, and to let them
+help us, in our collective pursuit of happier and more successful lives?
+
+### Acknowledgments
+
+Big shout-out to [dmleong](https://github.com/dmleong) for the idea,
+inspiration, and format for the above.
