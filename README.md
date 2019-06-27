@@ -25,13 +25,13 @@ I believe empathy is the answer. To all the questions that really count.
 For starters, empathy should be the first answer to questions about how we put
 all of our other values into practice:
 
-- _Collaboration_ should spring from empathy for our teammates.
-- Meaningful efforts to address _diversity, inclusion, and belonging_ should spring from
+- **Collaboration** should spring from empathy for our teammates.
+- Meaningful efforts to address **diversity, inclusion, and belonging** should spring from
   empathy for those who have been marginalized, discriminated against, or
   otherwise under-represented.
 - Empathy for users and others affected by our work should be the animating
-  force for _quality_ and _shipping_.
-- _Positive impact_, at both a local and global scale, follows inevitably from the above.
+  force for **quality** and **shipping**.
+- **Positive impact**, at both a local and global scale, follows inevitably from the above.
 
 We have all witnessed, in ourselves and others, attempts to put these values
 into practice via the private, solitary engagement of ego and pride, rather than
@@ -210,8 +210,8 @@ looks like all the time. I'm working on it.
 **3: Shiny head and face**
 
 These phone booths are not well ventilated. Especially in summer or when the
-co-working HVAC is out of balance, I start to shine. The bald head looks
-like this pretty much 24/7.
+co-working HVAC is out of balance, I start to shine. (TBH the bald head looks
+like this pretty much 24/7.)
 
 **4: Sporty clothes**
 
@@ -328,4 +328,4 @@ help us, in our collective pursuit of happier and more successful lives?
 ### Acknowledgments
 
 Big shout-out to [dmleong](https://github.com/dmleong) for the idea,
-inspiration, and format for the above.
+inspiration, and format for the above!
