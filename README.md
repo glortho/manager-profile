@@ -327,5 +327,5 @@ help us, in our collective pursuit of happier and more successful lives?
 
 ### Acknowledgments
 
-Big shout-out to [dmleong](https://github.com/dmleong) for the idea,
+Big shout-out to [@dmleong](https://github.com/dmleong) for the idea,
 inspiration, and format for the above!
