@@ -16,7 +16,8 @@ Hopefully it helps paint a picture of what it might be like to work together.
   - [Zoom interface guide](#zoom-interface-guide)
 - [Feedback](#feedback)
 - [Availability](#availability)
-- [My faults](#my-faults)
+- [My issues](#my-issues)
+- [Acknowledgments](#acknowledgments)
 
 ## My philosophy
 
@@ -102,7 +103,7 @@ Here are some typical ways I might go about this:
   interpersonal tensions
 - Help identify and remove anything else that is getting in your way
 - Give you timely and candid feedback in the form of appreciation, coaching, and
-  evaluation, and encourage others do the same
+  evaluation, and encourage others to do the same
 - Amplify your ideas and work so that the rest of the team and organization
   know about them
 - Be on constant lookout for challenges that will take you and the rest of us
@@ -279,7 +280,7 @@ Fridays :smile:.
   get you to pay attention to things that you probably don't need to pay
   attention to, at least not immediately.
 
-# My faults
+# My issues
 
 I will fail in ways both expected and unexpected. Here are some of the expected
 ways (that I'm working on):
@@ -290,7 +291,7 @@ ways (that I'm working on):
   talk about something interesting that I'll erupt with energy for a little
   while before getting totally depleted. It can come across as personal to the
   people I'm with when the depletion happens but really I just need to go be
-  alone for a little bit to recharge.
+  alone for a little while to recharge.
 - I'm socially awkward sometimes, which can make people uneasy. It's not you --
   it's me! My brain often has trouble chilling out enough to allow graceful
   interactions to unfold.
@@ -325,7 +326,7 @@ Those are helpful, but not sufficient. We can't do it alone.
 
 This group of people, our team, is probably going to come together in this configuration only once
 in our lifetimes. How will we use this time to help our fellow humans, and to let them
-help us, in our collective pursuit of happier and more successful lives?
+help us?
 
 ### Acknowledgments
 
