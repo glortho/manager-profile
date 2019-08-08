@@ -128,8 +128,6 @@ In no particular order:
 
 **I expect you to put forward your best effort each day.** My job isn't to drag a team over the finish line. It's to help everyone do their best work. If we succeed in doing that, everything else will fall into place one way or the other. I know that "best effort" translates to different things on different days. There isn't a person on the planet who fires on all cylinders every day. Having said that, if you find yourself in a dissatisfying pattern of not being able to give your best, let's talk about it sooner rather than later!
 
-**I expect you to be present at meetings.** I hate useless meetings. I promise to keep them to a minimum, and to keep them relevant to you. If I fail to keep these promises -- you find yourself drawn by irrelevance down into the rabbit holes of the internet during a meeting -- please tell me, either in the moment or afterwards.
-
 **I expect you to help your fellow teammates if they need it.** Our team is
 not fully functional if everyone is working independently in parallel. No matter
 how much knowledge and experience each of us has, there will be lots of times
@@ -173,6 +171,8 @@ to hear yours), but here are my thoughts for now:
   look at them again. Taking turns being the note-taker not only helps ensure
   that no one person shoulders the responsibility every time, but also allows for
   different perspectives to emerge about key take-aways.
+  
+I would be very excited to hear your thoughts about how to improve meetings in general, and our meetings in particular!
 
 ## 1:1s
 
