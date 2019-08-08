@@ -117,7 +117,7 @@ Here are some typical ways I might go about this:
 In no particular order:
 
 - Radical, non-hierarchical candor
-- Taking blame and giving credit
+- "Beginner's Mind" -- A deep commitment to learning from every person and every situation regardless of our seniority, training, or life experience
 - The safety of the marginalized over the hurt feelings of the privileged
 - Efficiency without dehumanization (but otherwise automate all the things)
 - Mistakes are good and important
