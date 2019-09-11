@@ -2,7 +2,7 @@
 
 Welcome to my README! If you're reading this you may have recently learned that I'm
 the engineering manager on your team. Since communication on distributed teams can
-be difficult, I created this document to as a kind of brain-dump and soul-dump.
+be difficult, I created this document as a kind of brain-dump and soul-dump.
 Hopefully it helps paint a picture of what it might be like to work together.
 
 ## Table of contents
