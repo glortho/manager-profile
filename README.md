@@ -1,7 +1,7 @@
 # Engineering Management
 
 Welcome to my README! If you're reading this you may have recently learned that I'm
-the engineering manager on your team. Since communication on distributed teams can
+our team's engineering manager. Since communication on distributed teams can
 be difficult, I created this document as a kind of brain-dump and soul-dump.
 Hopefully it helps paint a picture of what it might be like to work together.
 
@@ -86,7 +86,7 @@ role on a project is to own all three. I'm succeeding maximally if the
 following happens:
 
 - Projects ship on time at a high level of quality
-- Teams are working together well in a highly collaborative fashion
+- Our team is working together well in a highly collaborative fashion
 - People feel safe, respected, productive, engaged, and empowered
 
 Here are some typical ways I might go about this:
@@ -126,9 +126,9 @@ In no particular order:
 
 ## My Expectations
 
-**I expect you to put forward your best effort each day.** My job isn't to drag a team over the finish line. It's to help everyone do their best work. If we succeed in doing that, everything else will fall into place one way or the other. I know that "best effort" translates to different things on different days. There isn't a person on the planet who fires on all cylinders every day. Having said that, if you find yourself in a dissatisfying pattern of not being able to give your best, let's talk about it sooner rather than later!
+**I expect you to put forward your best effort each day.** My job isn't to drag our team over the finish line. It's to help everyone do their best work. If we succeed in doing that, everything else will fall into place one way or the other. I know that "best effort" translates to different things on different days. There isn't a person on the planet who fires on all cylinders every day. Having said that, if you find yourself in a dissatisfying pattern of not being able to give your best, let's talk about it sooner rather than later!
 
-**I expect you to help your fellow teammates if they need it.** Our team is
+**I expect you to help our fellow teammates if they need it.** Our team is
 not fully functional if everyone is working independently in parallel. No matter
 how much knowledge and experience each of us has, there will be lots of times
 when we need help, and lots of times when we have help to give. Embrace help
@@ -265,7 +265,7 @@ Except in off-schedule situations like dotcom oncall rotation, **I do not expect
 to respond to pings or otherwise be working unless it is your normal business hours
 in your time zone.**
 
-I strongly encourage you not to work on weekends or off-hours, unless it's a
+I strongly encourage you **not** to work on weekends or off-hours, unless it's a
 personal passion project. Burn-out is far easier to get than to get rid of.
 
 P.S. It's probably not a bad idea to stop working at least an hour early on
