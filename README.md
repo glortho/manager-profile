@@ -117,7 +117,7 @@ Here are some typical ways I might go about this:
 In no particular order:
 
 - Radical, non-hierarchical candor
-- "Beginner's Mind" -- A deep commitment to learning from every person and every experience regardless of our seniority, training, or life experience
+- "Beginner's Mind" -- A deep commitment to learning from every person and every experience regardless of our seniority, training, or life experience. (Do not make the fatal mistake of thinking a person who is committed to this practice is ignorant or aloof. Doing so sacrifices a culture of curiosity and collaboration in favor of one of fear and egoism.)
 - The safety of the marginalized over the hurt feelings of the privileged
 - Efficiency without dehumanization (but otherwise automate all the things)
 - Mistakes are good and important
