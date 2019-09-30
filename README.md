@@ -3,7 +3,7 @@
 Welcome to my README! If you're reading this you may have recently learned that I'm
 our team's engineering manager. Since communication on distributed teams can
 be difficult, I created this document as a kind of brain-dump and soul-dump.
-Hopefully it helps paint a picture of what it might be like to work together.
+Hopefully it helps paint a picture of what it _might_ be like to work together.
 
 ## Table of contents
 - [My philosophy](#my-philosophy)
@@ -82,7 +82,7 @@ But what does service and support mean exactly? See below.
 ## My role
 
 Projects need management, teams need coordination, people need connection. My typical
-role on a project is to own all three. I'm succeeding maximally if the
+role on a project is to be accountable for all three while distributing day to day ownership for each across our whole team. I'm succeeding maximally if the
 following happens:
 
 - Projects ship on time at a high level of quality
