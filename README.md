@@ -256,7 +256,7 @@ comfortable as possible!
 
 # Availability
 
-I work from 9am - 5pm [Eastern Time](https://time.is/Washington,_D.C.).
+I generally work from 8:30am - 4:45pm [Eastern Time](https://time.is/Washington,_D.C.).
 
 As a general rule, I will have everything set to "Do not disturb" outside these
 hours.
